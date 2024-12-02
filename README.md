@@ -3,6 +3,7 @@ A simple script to fetch the html content of an email
 
 This can be done with any gmail account but possibly at the cost of security.
 All that you need, is to ensure that your gmail account has IMAP enabled this can be be found in settings/POP3 and IMAP.
+Also you need to generate an app password this option can be found in the security settings of the google account you are using if it doesn't work you may have to generate this twice.
 Once that is done you need to ensure all the modules are installed in the directory
 
 ```
