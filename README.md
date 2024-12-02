@@ -14,6 +14,6 @@ You may notice there is a missing NodeScript api which I made for myself you can
 # NodeScript API
 
 <ol>
-  <li>Go to <a href="nodescript.dev">NodeScripts website</a>> and sign up for an account</li>
+  <li>Go to <a href="nodescript.dev">NodeScripts website</a> and sign up for an account</li>
   <li>Use this graph to create the api <br> <img src=""></li>
 </ol>
