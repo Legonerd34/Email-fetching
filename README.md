@@ -15,5 +15,15 @@ You may notice there is a missing NodeScript api which I made for myself you can
 
 <ol>
   <li>Go to <a href="nodescript.dev">NodeScripts website</a> and sign up for an account</li>
-  <li>Use this graph to create the api <br> <img src=""></li>
+  <li>Use this graph to create the api <br> <img width="1482" alt="nodescript image" src="https://github.com/user-attachments/assets/3fe684df-3608-42c4-b90e-86105b87f532"></li>
+  <li>Post the graph as http endpoint and the endpoint URL will be copied to your clipboard <br> <img width="394" alt="publish image" src="https://github.com/user-attachments/assets/2cde5414-795e-45ff-aded-6ac4006bcf86">
+</li>
 </ol>
+
+# Run the script
+
+To run the script just use nodejs.
+
+```
+node index.js
+```
